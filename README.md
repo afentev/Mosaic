@@ -1,5 +1,5 @@
 # Mosaic
-Mosaic images generation
+Mosaic images generation. My article about this project: https://habr.com/ru/articles/454828/
 
 <p align="center">
   <div class="nav3" style="height:705px;">
